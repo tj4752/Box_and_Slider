@@ -56,8 +56,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\FollowCamera.cs" />
-     <Compile Include="Assets\PlayerMovement.cs" />
+     <Compile Include="Assets\Materials\PlayerCollision.cs" />
+     <Compile Include="Assets\Materials\PlayerMovement.cs" />
+     <Compile Include="Assets\Scripts\FollowCamera.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/home/tanuj/Unity Projects/Box_and_slider/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
