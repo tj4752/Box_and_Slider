@@ -56,9 +56,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\EndTrigger.cs" />
+     <Compile Include="Assets\GameManager.cs" />
      <Compile Include="Assets\Materials\PlayerCollision.cs" />
      <Compile Include="Assets\Materials\PlayerMovement.cs" />
      <Compile Include="Assets\Scripts\FollowCamera.cs" />
+     <Compile Include="Assets\Scripts\Score.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/home/tanuj/Unity Projects/Box_and_slider/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
